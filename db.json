@@ -1,0 +1,94 @@
+{
+  "exercises": {
+    "upper": {
+      "shoulder": {
+        "ShoulderPress": {
+          "name": "Shoulder Press",
+          "equipment": "dumbbell",
+          "images": [
+            "e1.jpg",
+            "e2.jpg",
+            "e3.jpg"
+          ],
+          "instructions": "Instructions",
+          "registered-users": [
+            "default"
+          ]
+        },
+        "LateralRaise": {
+          "name": "Lateral Raise",
+          "images": [
+            "e1.jpg",
+            "e2.jpg",
+            "e3.jpg"
+          ],
+          "instructions": "Instructions",
+          "registered-users": [
+            "default"
+          ]
+        }
+      },
+      "bicep": {
+        "BarbelCurl": {
+          "name": "Barbell Curl",
+          "equipment": "barbell",
+          "images": [
+            "e1.jpg",
+            "e2.jpg",
+            "e3.jpg"
+          ],
+          "instructions": "Instructions",
+          "registered-users": [
+            "default"
+          ]
+        },
+        "StandingBicepCurl": {
+          "name": "Standing Bicep Curl",
+          "equipment": "dumbbell",
+          "images": [
+            "e1.jpg",
+            "e2.jpg",
+            "e3.jpg"
+          ],
+          "instructions": "Instructions",
+          "registered-users": [
+            "default"
+          ]
+        }
+      },
+      "tricep": {
+        "TricepExtension": {
+          "name": "Tricep Extension",
+          "equipment": "machine",
+          "images": [
+            "e1.jpg",
+            "e2.jpg",
+            "e3.jpg"
+          ],
+          "instructions": "Instructions",
+          "registered-users": [
+            "default"
+          ]
+        },
+        "TricepDips": {
+          "name": "Tricep Dips",
+          "equipment": "body",
+          "images": [
+            "e1.jpg",
+            "e2.jpg",
+            "e3.jpg"
+          ],
+          "instructions": "Instructions",
+          "registered-users": [
+            "default"
+          ]
+        }
+      }
+    },
+    "lower": {
+    }
+  },
+  "users": {
+
+  }
+}
